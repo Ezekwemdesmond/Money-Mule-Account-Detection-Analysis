@@ -57,13 +57,10 @@ Identify key predictors and behavioral patterns associated with money mule activ
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/money-mule-detection.git
-   cd money-mule-detection
+   git clone https://github.com/Ezekwemdesmond/Money-Mule-Account-Detection-Analysis.git
+   cd Money-Mule-Detection-Analysis
    ``
-4. **Launch Jupyter Notebook**
-   ```bash
-   
-   ```
+2. **Launch Jupyter Notebook**
 
 ### Analysis Tools
 - **jupyter**: Interactive development environment
@@ -112,9 +109,9 @@ Identify key predictors and behavioral patterns associated with money mule activ
 
 ## 🙏 Acknowledgments
 
-- Step Up Experian Online Career Challenge for providing anonymized dataset
+- Step Up Experian Online Career Challenge for providing synthetic dataset
 
 
 ---
 
-**⚠️ Disclaimer**: This project is for educational and research purposes. All data used is anonymized and synthetic. Results should be validated with domain experts before implementation in production systems.
+**⚠️ Disclaimer**: This project is for educational and research purposes. All data used is  synthetic. Results should be validated with domain experts before implementation in production systems.
